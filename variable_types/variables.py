@@ -1,16 +1,22 @@
-a = 85
-print(a)
-print (type(a)) # We don't indicate the variables type so if we wanna check this will print the variables type
+#Defining a variable, assign value
+day_of_week = "Monday"
 
-float(a)
-print (type(a))
+#Assign a new value
+day_of_week = "Tuesday"
 
-b = "Hello World!"
-print(b)
+#Assign the value of one variable to another variable
+today = day_of_week
 
-c = True
-print (type(c))
+#Python is a language with **dynamic typing** it means
+#Python allows you to assign values of different types to the same variable.
+month = "December"
+print(type(month))  # <class 'str'>
 
-d = 1.0
-print(type(d))
+month = 12
+print(type(month))  # <class 'int'>
+
+
+
+
+
 

@@ -1,1 +1,30 @@
+In python spaces are important.For ex, I wrote;
+   print("Hello, World!") #This won't work :(
+print("Hello, World!")  #This will :)
+
+Names are case-sensitive in Python.(Print, print and PRINT are not the same.)
+
+Like most of the languages we need to follow common conventions concerning programming style, so other programmers are able to read your code easily.
+There is a document that is called PEP 8. The key idea of it is to use the same code style for all Python projects as if they were written by the same programmer.
+
+Some of the rules(advices?) on PEP 8
+-Do not use more than 79 characters in a line of code.
+-Avoid extra spaces(within parentheses, before an opening parethesis etc.)
+-Quotes("",'') should be used consistently and/or to avoid backslashes.
+
 We don't need package or func we just write something and they work :).
+
+Every data object (a variable or a constant) has a type
+Python has five standard data types
+- Numbers (Numeric values)
+- String
+- List
+- Tuple
+- Dictionary
+
+Python supports four different numerical types 
+- int (signed integers) (10)
+- long (long integers, they can also be represented in octal and hexadecimal)(51924361L)
+- float (floating point real values)(0.0)
+- complex (complex numbers)(3.14j)
+
