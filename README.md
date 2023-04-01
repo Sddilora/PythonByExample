@@ -1,17 +1,17 @@
 # This repository will be helpful for Python Beginners!
 
-<h2> The repository explains the: </h2>
+<h3> The repository explains the: </h3>
 
 <p>
-Variable types,
-Operators,
-If, else statement,
-While loop usage,
-Taking input from users,
+- Variable types,
+- Operators,
+- If, else statement,
+- While loop usage,
+- Taking input from users,
 </p>
 
-<h2> This repository contains a bot101 project that summarizes what we learned in the repository </h2>
+<h3> This repository contains a bot101 project that summarizes what we learned in the repository </h3>
 
-<h3> Have Fun :) </h3>
+<h4> Have Fun :) </h4>
 
 
