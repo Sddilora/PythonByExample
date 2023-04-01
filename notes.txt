@@ -11,6 +11,10 @@ Some of the rules(advices?) on PEP 8
 -Do not use more than 79 characters in a line of code.
 -Avoid extra spaces(within parentheses, before an opening parethesis etc.)
 -Quotes("",'') should be used consistently and/or to avoid backslashes.
+-For variables use lowercase and underscores to split words.
+-For constants, it's common to write its name in all capital letters
+-If the most suitable variable name is some Python keyword, add an underscore to the end of it.(class_ : "sth")
+-Choose a name that is readable and descriptive, but not too wordy (1-3 words are enough).
 
 We don't need package or func we just write something and they work :).
 
@@ -28,3 +32,4 @@ Python supports four different numerical types
 - float (floating point real values)(0.0)
 - complex (complex numbers)(3.14j)
 
+People generally don't choose Python to write fast code. The main advantages of Python are readability and simplicity.

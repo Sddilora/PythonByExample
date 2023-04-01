@@ -1,4 +1,4 @@
-#Defining a variable, assign value
+#Defining a variable, assigning a value
 day_of_week = "Monday"
 
 #Assign a new value
