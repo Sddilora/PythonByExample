@@ -1,6 +1,6 @@
 # This repository will be helpful for Python Beginners!
 
-<h1> The repository explains the: </h1>
+<h2> The repository explains the: </h2>
 
 <p>
 Variable types,
@@ -10,8 +10,8 @@ While loop usage,
 Taking input from users,
 </p>
 
-<h1> This repository contains a bot101 project that summarizes what we learned in the repository </h1>
+<h2> This repository contains a bot101 project that summarizes what we learned in the repository </h2>
 
-<h2> Have Fun :) </h2>
+<h3> Have Fun :) </h3>
 
 
