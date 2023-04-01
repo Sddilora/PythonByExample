@@ -8,9 +8,9 @@
 - While loop usage
 - Taking input from users
 
-### It contains a bot101 project that summarizes what we learned in the repository.
+### It contains a bot101 project that summarizes what we learned in this repository.
 
 ```funny
-Have Fun :)
+Don't Forget to Have Fun 🥳
 ```
 
