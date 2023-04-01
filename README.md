@@ -3,15 +3,16 @@
 <h3> The repository explains the: </h3>
 
 <p>
-- Variable types,
-- Operators,
-- If, else statement,
-- While loop usage,
-- Taking input from users,
+- Variable types, |
+- Operators, |
+- If, else statement, |
+- While loop usage, |
+- Taking input from users, |
 </p>
 
 <h3> This repository contains a bot101 project that summarizes what we learned in the repository </h3>
 
-<h4> Have Fun :) </h4>
-
+```funny
+Have Fun :)
+```
 
