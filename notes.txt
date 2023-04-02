@@ -33,3 +33,13 @@ Python supports four different numerical types
 - complex (complex numbers)(3.14j)
 
 People generally don't choose Python to write fast code. The main advantages of Python are readability and simplicity.
+
+The reason sum((x, y)) works and sum(x, y) doesn't work is because the sum() function can only take iterable objects as its first argument, such as lists and tuples.
+So when you try to run sum(x, y), Python looks at the x variable, which is defined to be an integer, and tries to iterate through it, which won't work since
+
+There are several types of collections to store data in Python.
+Positionally ordered collections of elements are usually called "sequences".
+Both "strings" and "lists" belong to them.
+Each element in them has an Index that corresponds to its position.
+Indexes are used to access elements within a sequence.
+Indexing is zero based. It means that you start the count from zero :).
