@@ -4,11 +4,12 @@
 
 - Variable types
 - Operators
-- If, else statement
+- If, else statement (conditions)
 - While loop usage
 - Taking input from users
+- Invoking and defining functions 
 
-### It contains a bot101 project that summarizes what we learned in this repository.
+### It contains bot10x projects that summarizes what we learned in this repository.
 
 ```funny
 Don't Forget to Have Fun 🥳
