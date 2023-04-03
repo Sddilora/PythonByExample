@@ -24,3 +24,8 @@ first_elem = [-len(colors)]
 
 last_char = pet[-1]
 first_char = pet[-3]
+
+# More complex example
+# input is a string of a 6 digit number and we are checking that sum of the first three and last three are equal.
+ticket = [int(x) for x in input()]
+print(sum(ticket[:3]) == sum(ticket[-3:]) and "Lucky" or "Ordinary")
