@@ -43,3 +43,17 @@ Both "strings" and "lists" belong to them.
 Each element in them has an Index that corresponds to its position.
 Indexes are used to access elements within a sequence.
 Indexing is zero based. It means that you start the count from zero :).
+
+Interpreter: During the interpretation part, the software goes through your program and executes the code, line by line. This software is called an interpreter.
+An interpreter can be written in any programming language. The default Python interpreter is written in C, it is called CPython.
+
+In Python to organize and reuse code called modules.
+The module is simply a file that contains Python statements and definitions.
+What really makes the module system powerful is the ability to "load" or "import" one module from another.
+
+In order to be available for import, used_module.py should be located in the same directory as the file you are trying to import used_module.
+At first, Python importing system looks for a module in the current directory, then it checks the built-in modules, and if nothing is found an error will be raised
+
+A simple module that is written for direct execution is often called a "script".
+The difference between a module and a script in Python is only in the way they are used.
+Modules are loaded from other modules or scripts, and scripts are executed directly.
