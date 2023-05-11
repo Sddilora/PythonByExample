@@ -2,7 +2,7 @@
 
 - To get a better understanding of how decorators work, We should understand a few concepts first.
 
-##A function is an object. Because of that, a function can be assigned to a variable. The function can be accessed from that variable.
+## A function is an object. Because of that, a function can be assigned to a variable. The function can be accessed from that variable.
 
 ```
 def my_function():
@@ -20,7 +20,7 @@ print(description())
 # Output: 'I am a function.'
 ```
 
-##A function can be nested(tr. iç içe) within another function.
+## A function can be nested(tr. iç içe) within another function.
 
 ```
 def outer_function():
@@ -39,7 +39,7 @@ outer_function()
 
 !! Note that the inner_function is not available outside the outer_function. If I try to execute the inner_function outside of the outer_function I receive a NameError exception.
 
-##Since a function can be nested inside another function it can also be returned.
+## Since a function can be nested inside another function it can also be returned.
 
 ```
 def outer_function():
@@ -57,7 +57,7 @@ homework()
 # Output: 'Read Python book chapter 5.'
 ```
 
-##A function can be passed to another function as an argument.
+## A function can be passed to another function as an argument.
 ```
 def friendly_reminder(func):
     '''Reminder for husband'''
@@ -77,8 +77,8 @@ friendly_reminder(action)
 Don't forget to bring your wallet!
 ```
 
-###Sooo here we are:
-##How to Create a Python Decorator
+## #Sooo here we are:
+## How to Create a Python Decorator
 - To create a decorator function in Python, We create an outer function that takes a function as an argument. There is also an inner function that wraps around the decorated function.
 ```
 def my_decorator_func(func):
@@ -97,7 +97,7 @@ def my_func():
     pass
 ```
 
-##How to add Arguments to Decorators in Python
+## How to add Arguments to Decorators in Python
 #Decorators can have arguments passed to them. To add arguments to decorators We add *args and **kwargs to the inner functions.
 
 - *args will take an unlimited number of arguments of any type, such as 10, True, or 'Brandon'.
@@ -131,7 +131,7 @@ print(my_func.__doc__)
 # None
 ```
 
-##We can use decorators with classes as well. Let's see how you use decorators with a Python class.
+## We can use decorators with classes as well. Let's see how you use decorators with a Python class.
 - In this example, notice there is no @ character involved. With the __call__ method the decorator is executed when an instance of the class is created.
 ```
 import requests

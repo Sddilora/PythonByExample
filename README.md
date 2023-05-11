@@ -11,6 +11,7 @@
 - Module usage / writing
 - Things to consider when writing a module !
 - What is scripts
+- Decorators (with arguments)
 
 ### It contains simple projects that summarizes what we learned in this repository.
 
