@@ -1,4 +1,4 @@
-- We'll use a decorator when you need to change the behavior of a function without modifying the function itself.
+# We'll use a decorator when you need to change the behavior of a function without modifying the function itself.
 
 - To get a better understanding of how decorators work, We should understand a few concepts first.
 
@@ -77,7 +77,7 @@ friendly_reminder(action)
 Don't forget to bring your wallet!
 ```
 
-## #Sooo here we are:
+### Sooo here we are:
 ## How to Create a Python Decorator
 - To create a decorator function in Python, We create an outer function that takes a function as an argument. There is also an inner function that wraps around the decorated function.
 ```
