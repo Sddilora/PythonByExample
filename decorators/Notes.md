@@ -29,7 +29,7 @@ def outer_function():
 
         print('I came from the inner function.')
 
-    #Executing the inner function inside the outer function.
+    # Executing the inner function inside outer function.
     inner_function()
 
 outer_function()
@@ -98,7 +98,7 @@ def my_func():
 ```
 
 ## How to add Arguments to Decorators in Python
-#Decorators can have arguments passed to them. To add arguments to decorators We add *args and **kwargs to the inner functions.
+- Decorators can have arguments passed to them. To add arguments to decorators We add *args and **kwargs to the inner functions.
 
 - *args will take an unlimited number of arguments of any type, such as 10, True, or 'Brandon'.
 
