@@ -57,3 +57,5 @@ At first, Python importing system looks for a module in the current directory, t
 A simple module that is written for direct execution is often called a "script".
 The difference between a module and a script in Python is only in the way they are used.
 Modules are loaded from other modules or scripts, and scripts are executed directly.
+
+Python is an object oriented programming language.
