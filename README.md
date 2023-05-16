@@ -12,6 +12,7 @@
 - Things to consider when writing a module !
 - What is scripts
 - Decorators (with arguments)
+- Most used built-in libraries
 
 ### It contains simple projects that summarizes what we learned in this repository.
 
